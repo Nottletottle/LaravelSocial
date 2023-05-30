@@ -1,2 +1,2 @@
-#Simple social media web application
+# Simple social media web application
 I made this application using laravel
