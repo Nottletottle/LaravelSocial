@@ -1,3 +1,4 @@
-# Simple Social Media Web Application
+# Simple social media web application
 
-I made this app using laravel
+
+I made this application using laravel
